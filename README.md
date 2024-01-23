@@ -20,7 +20,7 @@
    - **Initial Page:** Página inicial de um aplicativo Fiori que geralmente fornece uma visão geral e links para outras partes do aplicativo.
    - **Overview Page:** Oferece uma visão geral do status e dados principais do aplicativo.
    - **Worklist:** Apresenta uma lista de tarefas ou itens de trabalho para que os usuários possam gerenciá-los facilmente.
-   - **List Report:** Exibe listas de dados de forma tabular, com recursos como filtragem e classificação.
+   - **List Report:** Exibe listas de dados de forma tabular, com recursos como filtragem e classificação (é tipo ALV).
    - **Object Page:** Mostra detalhes completos de um objeto específico.
    - **Wizard:** Utilizado para orientar o usuário em tarefas complexas divididas em etapas gerenciáveis.
 
